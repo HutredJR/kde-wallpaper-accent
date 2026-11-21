@@ -28,7 +28,7 @@ Coste: cero procesos añadidos. Es solo un esquema de colores, sin demonios ni s
 ## Uso
 
 ```bash
-git clone https://github.com/TU_USUARIO/kde-wallpaper-accent.git
+git clone https://github.com/HutredJR/kde-wallpaper-accent.git
 cd kde-wallpaper-accent
 ./install.sh
 ```
