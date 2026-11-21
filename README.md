@@ -75,6 +75,18 @@ hasta que hay un evento real):
 Para arrancarlo con la sesión, añade una entrada en
 `~/.config/autostart/` apuntando a ese script.
 
+## Autostart
+
+Para aplicar automáticamente el color del último vídeo al iniciar sesión:
+
+```bash
+./install-autostart.sh
+```
+
+Instala un `.desktop` en `~/.config/autostart/` con la ruta real del repo. El
+wrapper espera a que Plasma y el plugin estén listos antes de aplicar el color.
+Para quitarlo: `rm ~/.config/autostart/kde-wallpaper-accent.desktop`.
+
 ## Notas
 
 - La paleta sigue siendo la del esquema original: el tinte mezcla el color del

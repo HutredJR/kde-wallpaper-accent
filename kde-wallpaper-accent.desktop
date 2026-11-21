@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Wallpaper Accent Color
+Comment=Aplica el color del último vídeo como acento de Plasma
+Exec=/home/juanrueda/kde-wallpaper-accent/autostart-wrapper.sh
+Icon=preferences-desktop-wallpaper
+Terminal=false
+NoDisplay=true
+X-KDE-autostart-phase=2
+OnlyShowIn=KDE;
